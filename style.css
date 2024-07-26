@@ -1,0 +1,93 @@
+header{
+    background-color:#FAF0E6;
+    display: flex;
+    
+}
+    .menu {
+        margin: 0px 5px 0px 5px;
+    }
+
+
+
+.imagem{
+    width: 15%;
+    height: 15%;
+    margin-left: 8%;
+
+}
+
+
+section{
+    margin: 0px 400px 0px 400px;
+}
+
+
+.sobrenós{
+    font-size: 100%;
+    margin-top:7% ;
+    margin-left: 11%;
+}
+
+.produto{
+    font-size: 100%;
+    margin-top:7% ;
+    margin-left: 11%;
+}
+
+.medico{
+    font-size: 100%;
+    margin-top:7% ;
+    margin-left: 11%;
+}
+
+
+.ti{
+    color: #8B4513;
+}
+
+.titulo{
+    margin-left: 23%;
+    font-size: 200%;
+}
+
+.fim{
+    font-size: 80%;
+}
+
+.botao{
+    display: flex;
+    align-items: center;
+    font-size: 90%;
+    margin-top:0% ;
+    margin-left: 10%;
+}
+
+input[type="texto"] {
+    padding: 10px;
+    border-radius: 5px 0 0 5px;
+    border: 1px solid #ccc;
+    border-right: none;
+}
+
+button{
+    padding: 10px 20px;
+    border-radius: 0 5px 5px 0;
+    border: 1px solid #ccc;
+    background-color: #f2f2f2;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #DEB887;
+}
+
+
+.lo{
+    margin-left: 22%;
+}
+
+.cli{
+    margin: 0px 200px 0px 200px;
+    width: 60%;
+    height: 60%;
+}
